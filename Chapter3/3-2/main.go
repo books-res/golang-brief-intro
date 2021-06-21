@@ -22,4 +22,5 @@ func main() {
 	fmt.Println(list5)
 
 	fmt.Println(list2 == list4)
+	//fmt.Println(list5 == list4)
 }
