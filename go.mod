@@ -1,4 +1,4 @@
-module github.com/i-coder-robot/book_final_code
+module github.com/golang-brief-intro
 
 go 1.15
 
